@@ -58,10 +58,11 @@ section {
   font-weight: 200;
   letter-spacing: 1px; }
   #mainNav .navbar-brand {
-    color: #fdcc52;
-    font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
-    font-weight: 200;
-    letter-spacing: 1px; }
+	color: #00CC99;
+	font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
+	font-weight: 200;
+	letter-spacing: 1px;
+}
     #mainNav .navbar-brand:hover, #mainNav .navbar-brand:focus {
       color: #fcbd20; }
   #mainNav .navbar-toggler {
